@@ -18,6 +18,8 @@
 - NgRx [➡️](https://ngrx.io/)
 - SASS [➡️](https://sass-lang.com/)
 - Responsive web design
+- React
+- Redux
 
 ##### ABOUT ⭐️
 

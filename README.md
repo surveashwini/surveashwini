@@ -24,7 +24,6 @@
 
 ##### ABOUT ⭐️
 
-- :office: I'm currently working at **BMC Software, India**
 - :memo: I write at [**Medium**](https://ashwinisurve.medium.com/ 'Ashwini Surve on Medium')
 - :octocat: Apart from work, I spend most of my time here at [GitHub](https://github.com/surveashwini "Ashwini Surve on GitHub").
 - 🧙‍♂️ I'm a huge fan of Harry Potter movies

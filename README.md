@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Developer working in Montreal, Quebec, Canada :canada:. I mostly do front-end development, and I’m an Angular and React enthusiast. I love to code and explore new technologies.
+#### I'm a Front-End Developer working in Montreal, Quebec, Canada :canada:. I mostly do Full-stack development, and I’m an Angular and React enthusiast. I love to code and explore new technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinisurve/ "Ashwini Surve on LinkedIn")
 
@@ -16,11 +16,12 @@
 
 - Angular
 - JavaScript & CSS [LinkedIn Skill Assessment Certified](https://www.linkedin.com/in/ashwinisurve/)
-- NgRx [➡️](https://ngrx.io/)
-- SASS [➡️](https://sass-lang.com/)
+- NgRx [➡️](https://ngrx.io/), Redux
+- SASS [➡️](https://sass-lang.com/), Styled Components, Tailwind CSS
 - Responsive web design
 - React
-- Redux
+- Python
+- mySql and PostgreSQL
 
 ##### ABOUT ⭐️
 

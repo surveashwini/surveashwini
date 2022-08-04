@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Developer working in Pune, India :india:. I mostly do front-end development, and I’m an Angular and React enthusiast. I love to code and explore new technologies.
+#### I'm a Front-End Developer working in Montreal, Quebec, Canada :canada:. I mostly do front-end development, and I’m an Angular and React enthusiast. I love to code and explore new technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinisurve/ "Ashwini Surve on LinkedIn")
 

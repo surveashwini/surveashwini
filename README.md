@@ -16,12 +16,13 @@
 
 - Angular
 - JavaScript & CSS [LinkedIn Skill Assessment Certified](https://www.linkedin.com/in/ashwinisurve/)
-- NgRx, Redux
-- SASS, Styled Components, Tailwind CSS
-- Responsive web design
 - React
 - Python
 - MongoDB, mySql and PostgreSQL
+- NgRx, Redux
+- HTML
+- SASS, Styled Components, Tailwind CSS
+- Responsive web design
 
 ##### ABOUT ⭐️
 

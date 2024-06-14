@@ -9,7 +9,7 @@
 - :pencil2:  Created [Expense Manager application](https://surveashwini.github.io/expense-manager-angular-java/) using Angular and Java.
 - :pencil2:  Created [Expense Manager application](https://surveashwini.github.io/expense-manager-react-java/) using React and Java.
 - :white_check_mark:  Created [VSCode plugin](https://marketplace.visualstudio.com/items?itemName=ashwinisurve.reminder) to remind me of stuff during my work hours
-- ✨  Check my [portfolio](https://www.ashwinisurve.in/ "Ashwini Surve") built using Next.js 
+- ✨  Check my [portfolio](https://ashwinisurve.vercel.app/ "Ashwini Surve") built using Next.js 
 - 🚨  Also created a chrome plugin to inform you when you have no internet connection. ([Check it out](https://chrome.google.com/webstore/detail/internet-connection-statu/pbhlmfomkkdohgjemfkdjelbncllgecc/related?hl=en&authuser=0))
 
 #### Skills 👨‍💻
